@@ -153,5 +153,3 @@ Answer the following questions in 2-3 sentences each.
 | Zookeeper                      | Coordination service for distributed systems; used in HBase.                        |
 
 ---
-
-This Markdown file preserves **all your content**, is easy to read, and can be converted to PDF with proper formatting.
